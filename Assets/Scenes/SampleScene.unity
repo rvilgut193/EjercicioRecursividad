@@ -476,12 +476,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 80b031d84caf70346ab32bf4ec350b41, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::JuegoRecursividad
-  colores:
+  coloresCubos:
   - {r: 1, g: 0, b: 0, a: 0}
-  - {r: 0, g: 0.2736156, b: 1, a: 0}
-  - {r: 0, g: 1, b: 0.11812562, a: 0}
-  - {r: 0.9914521, g: 1, b: 0, a: 0}
-  - {r: 0.4716981, g: 0.4716981, b: 0.4716981, a: 0}
+  - {r: 0, g: 0.14518571, b: 1, a: 0}
+  - {r: 1, g: 0.9863347, b: 0, a: 0}
+  - {r: 0.31443334, g: 1, b: 0, a: 0}
+  - {r: 0.5471698, g: 0.5471698, b: 0.5471698, a: 0}
+  lado: 7
+  separacion: 0.05
+  margenCamara: 1.15
 --- !u!1 &1339005934
 GameObject:
   m_ObjectHideFlags: 0
@@ -649,7 +652,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cdd17bdecfbbb494898584b2e6844cf9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SeguimientoRaton
-  longitudRayo: 10000
 --- !u!1 &2099109684
 GameObject:
   m_ObjectHideFlags: 0

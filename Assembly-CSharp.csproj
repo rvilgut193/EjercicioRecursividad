@@ -55,6 +55,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\JuegoRecursividad.cs" />
     <Compile Include="Assets\TutorialInfo\Readme.cs" />
+    <Compile Include="Assets\Scripts\Cubo.cs" />
     <Compile Include="Assets\InputSystem_Actions.cs" />
     <Compile Include="Assets\Scripts\SeguimientoRaton.cs" />
   </ItemGroup>
